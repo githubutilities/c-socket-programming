@@ -1,0 +1,8 @@
+# Mac OS X finder caches
+.DS_Store
+
+# binary
+*.out
+
+# text file
+*.txt
